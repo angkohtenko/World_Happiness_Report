@@ -3,9 +3,9 @@ In this project I’ve analyzed [data](Source%20Data/) reported by [World Happin
 
 ## Tools used
 
-Python 3.8 (pandas, matplotlib, seaborn, numpy, io, requests)
+- Python 3.8 (pandas, matplotlib, seaborn, numpy, io, requests)
 
-Tableau Public
+- Tableau Public
 
 
 ## Data cleaning
@@ -25,7 +25,8 @@ Additionally, I have created several charts using the matplotlib and seaborn lib
 ![Countries amoung 20 happiest](Images/Countries_among_20_happiest.png)
 ![Countries with fastest growth](Images/Countries_with_fastest_growth.png)
 ![Dystopia](Images/Dystopia.png)
-(more plots in notebook)
+
+Find more plots in [notebook](Clean_data.ipynb).
 
 ## Analysis
 
