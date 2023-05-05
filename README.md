@@ -20,7 +20,7 @@ I exported clean data and used it as a data source for [Tableau dashboard](https
 ![Tableau dashboard](Images/Dashboard.png)
 
 Additionally, I have created several charts using the matplotlib and seaborn libraries:
-![Most happy countries](Images/Most_happy_countries_2021.png)
+![Most happy countries](Images/Most_happy_countries_2022.png)
 ![Happiness score by region](Images/Happiness_score_by_region.png)
 ![Countries amoung 20 happiest](Images/Countries_among_20_happiest.png)
 ![Countries with fastest growth](Images/Countries_with_fastest_growth.png)
@@ -36,12 +36,14 @@ Find more plots in [notebook](Clean_data.ipynb).
 
 - North America, Australia, New Zeland and Western Europe are happier regions. Central and Eastern Europe became significantly happier for the last 8 years.
 
-- Denmark has the highest average happiness score during 2014-2021 period.
+- Denmark has the highest average happiness score during 2014-2022 period.
 
-- Australia and Canada were replaced by Austria and Luxemburg in top 10 happiest countries.
+- Australia and Canada were replaced by Austria, Luxemburg and Israel in top 10 happiest countries.
 
-- Romania has the fastest growth in happiness from 5.12 in 2014 year to 6.48 in 2021.
+- Israel made a big jump in happiness score moving from 9 to 4 rank in 2022.
 
-- Afghanistan has the fastest drop in happiness from 3.58 in 2014 to 2.40 in 2021.
+- Romania has the fastest growth in happiness from 5.12 in 2014 year to 6.59 in 2021.
 
-- In 2021 Dystopia has the lowest value that means some of key factors became even lower than they were in previous years.
+- Afghanistan has the fastest drop in happiness from 3.58 in 2014 to 1.86 in 2021.
+
+- In 2022 Dystopia has the lowest value that means some of key factors became even lower than they were in previous years.
