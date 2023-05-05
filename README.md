@@ -40,10 +40,10 @@ Find more plots in [notebook](Clean_data.ipynb).
 
 - Australia and Canada were replaced by Austria, Luxemburg and Israel in top 10 happiest countries.
 
-- Israel made a big jump in happiness score moving from 9 to 4 rank in 2022.
+- Israel made a big jump in rank moving from 9 to 4 place in 2022 because of two factors: increase of own happiness score and decrease of happiness score in other countries.
 
-- Romania has the fastest growth in happiness from 5.12 in 2014 year to 6.59 in 2021.
+- Romania has the fastest growth in happiness from 5.12 in 2014 year to 6.59 in 2022.
 
-- Afghanistan has the fastest drop in happiness from 3.58 in 2014 to 1.86 in 2021.
+- Afghanistan has the fastest drop in happiness from 3.58 in 2014 to 1.86 in 2022.
 
 - In 2022 Dystopia has the lowest value that means some of key factors became even lower than they were in previous years.
